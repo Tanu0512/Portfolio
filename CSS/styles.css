@@ -1,0 +1,148 @@
+
+
+body{
+   background-color:#e0ebe8;
+    margin: 0;
+    text-align: center;
+    font-family:  'Merriweather', serif;
+   /* font-size: 200%;*/
+  
+}
+.intro{
+    line-height: 2;
+}
+h1{
+    background-color:#e0ebe8;
+    font-size: 5.625rem;
+   margin-top: 50px auto 0 auto ;
+   font-family: 'Great Vibes', cursive;
+   color: #48918e;
+   
+}
+h2{
+   font-family: 'Great Vibes', cursive;
+   color: #39a6a3;
+   font-size: 2.6rem;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+     color: #11999E;
+     background-color: #e0ebe8;
+     margin:10px 20px;
+     text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.copyright{
+    color: #48918e; ;
+}
+.top-container{
+    position: relative;
+    padding-top:100px;
+
+}
+
+.bottom-container{
+   position: relative;
+   top: 150px;
+  /* position: absolute;
+   bottom: 100px;;*/
+}
+    
+.middle-container{
+    background-color: whitesmoke;
+   position: relative;
+   top:120px; 
+}
+.bottom-cloud{
+    position: relative;
+    bottom:250px;
+}
+.top-cloud{
+    position: absolute;
+    right:150px;
+    top:50px;
+}
+.mountain{
+    position:relative;
+    top:150px;
+    right:50px;   
+}
+.profile{
+    text-align: center;
+}
+
+.stu{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: 70px  auto 70px auto;
+    text-align: left;
+   /* line-height: 2;*/ 
+}
+p{
+    line-height: 2;
+}
+.web-dev{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.content{
+    float: right;
+    margin-right: 30px;
+    width:30%;
+}
+hr{
+    border-color: grey;
+    border-style: none ;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3.5%;
+    opacity: 0.2;
+}
+
+
+
+.btn {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #000000;
+    font-family: Open Sans;
+    font-size: 22px;
+    font-weight: 200;
+    padding: 10px;
+    background-color: #39A6A3;
+    -webkit-box-shadow: inset 0 0 0 0 #000000;
+    -moz-box-shadow: inset 0 0 0 0 #000000;
+    box-shadow: inset 0 0 0 0 #000000;
+    text-shadow: 0 0 0 #000000;
+    border: solid #33EDD6 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    bottom:10px;
+ }
+ 
+ .btn:hover {
+    background: #1E82D0;
+    border: solid #337FED 0;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .getin{
+   /*  margin-top:5px;*/
+     margin-bottom: 5px;
+ }
