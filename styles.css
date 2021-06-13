@@ -59,8 +59,9 @@ a:hover{
    top:120px; 
 }
 .bottom-cloud{
-    position: relative;
-    bottom:250px;
+   /* position: relative;
+    bottom:250px;*/
+   position:absolute;
 }
 .top-cloud{
     position: absolute;
